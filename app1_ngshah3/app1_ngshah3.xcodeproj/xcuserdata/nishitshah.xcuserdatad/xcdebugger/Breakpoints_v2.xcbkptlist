@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4EA5F58B-C465-410E-AECB-D978E4F6A669"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6892865-3241-4CB6-B8E1-617BCC983B8A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "app1_ngshah3/Welcome Screen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "segmentedControlChanged(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A6892865-3241-4CB6-B8E1-617BCC983B8A - 8c10c625a1c20fb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "app1_ngshah3.Welcome_Screen.updateCollegeImage() -&gt; ()"
+                  moduleName = "app1_ngshah3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishitshah/Desktop/IOS%20Dev/app1_ngshah3/app1_ngshah3/Welcome%20Screen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "A6892865-3241-4CB6-B8E1-617BCC983B8A - b6826678d71dcf2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "app1_ngshah3.Welcome_Screen.segmentedControlChanged(__C.UISegmentedControl) -&gt; ()"
+                  moduleName = "app1_ngshah3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nishitshah/Desktop/IOS%20Dev/app1_ngshah3/app1_ngshah3/Welcome%20Screen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
