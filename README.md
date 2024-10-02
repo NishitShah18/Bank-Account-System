@@ -48,3 +48,6 @@ If you would like to contribute to this project:
 3. **Make your changes and commit** (`git commit -m 'Add some feature'`).
 4. **Push to the branch** (`git push origin feature-branch`).
 5. **Open a Pull Request**.
+
+## Live Demo:
+You can view the walkthrough and demo of the app [here](https://seneca-my.sharepoint.com/:v:/g/personal/ngshah3_myseneca_ca/Ecr8HVr-l8ZMu3ubw6Hh5k0BVfIyGvu6ui82CjhnCEgD8A?e=ziMTKr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D).
